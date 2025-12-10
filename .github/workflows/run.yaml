@@ -20,10 +20,10 @@ jobs:
 
       - name: Run scripts
         run: |
-          node .github/actions/fetch-metadata.js
-          node .github/actions/merge-metadata.js
-          node .github/actions/gen-m3u-generic.js
-          node .github/actions/gen-m3u-ku9.js
+          node actions/fetch-metadata.js
+          node actions/merge-metadata.js
+          node actions/gen-m3u-generic.js
+          node actions/gen-m3u-ku9.js
 
       - name: Set Git author
         run: |
@@ -33,5 +33,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add .
-          git commit -m "Update m3u" || echo "No changes to commit"
+          git commit -m "Update m3u" || echo "No changes"
           git push
