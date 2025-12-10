@@ -23,7 +23,7 @@
     "name": "新闻综合",
     "icon": "https://img11.litenews.cn/635/2023/06/16/10eb8ca7a9579564d19e8da968f5301e.png",
     "logo": "https://img11.litenews.cn/635/2023/06/16/10eb8ca7a9579564d19e8da968f5301e.png",
-    "stream": "https://alivealone302.litenews.cn/635/695bc19784f6441e83c9eaee148e1f75/playlist.m3u8?k=85e953b6a37c7993d9a0111dd06a7706&t=1763708588",
+    "stream": "https://alivealone302.litenews.cn/635/695bc19784f6441e83c9eaee148e1f75/playlist.m3u8?k=5fe3d7f5dd28d07722c1a2ae23ac5138&t=1765331310",
     "desc": "新闻综合",
     "id": 1,
     "cateid": 0,
@@ -41,7 +41,7 @@
     "name": "经济生活",
     "icon": "https://img11.litenews.cn/635/2023/06/16/70b2c2cbfc6335a1f290d26993645f05.png",
     "logo": "https://img11.litenews.cn/635/2023/06/16/70b2c2cbfc6335a1f290d26993645f05.png",
-    "stream": "https://alivealone302.litenews.cn/635/1f97fc0633d747ed9689741218e0a057/playlist.m3u8?k=cd3e432f21c05ef3485e5e6c94c80359&t=1763708588",
+    "stream": "https://alivealone302.litenews.cn/635/1f97fc0633d747ed9689741218e0a057/playlist.m3u8?k=5975c7449bed8ec9e2bcf8f195db8fde&t=1765331310",
     "desc": "WFTV-2 经济生活频道",
     "id": 5,
     "cateid": 0,
@@ -59,7 +59,7 @@
     "name": "影视综艺",
     "icon": "https://img11.litenews.cn/635/2023/06/16/7dc04489203121086323a1002652354f.png",
     "logo": "https://img11.litenews.cn/635/2023/06/16/7dc04489203121086323a1002652354f.png",
-    "stream": "https://alivealone302.litenews.cn/635/1ebcf529cada4d448a48f73b216cd1ac/playlist.m3u8?k=3e5990f8f042d34bbc517e993abc8135&t=1763708588",
+    "stream": "https://alivealone302.litenews.cn/635/1ebcf529cada4d448a48f73b216cd1ac/playlist.m3u8?k=3e301fe30714bb88d3d025e468cd1623&t=1765331310",
     "desc": "WFTV-3 影视综艺频道",
     "id": 7,
     "cateid": 0,
@@ -77,7 +77,7 @@
     "name": "科教文旅",
     "icon": "https://img11.litenews.cn/635/2023/06/16/52d093b6da5aa768021280c51decff50.png",
     "logo": "https://img11.litenews.cn/635/2023/06/16/52d093b6da5aa768021280c51decff50.png",
-    "stream": "https://alivealone302.litenews.cn/635/09ddcc111dda41d2b3abed4a8f2efdb0/playlist.m3u8?k=37fcc14fc530febd90768801fc653a25&t=1763708588",
+    "stream": "https://alivealone302.litenews.cn/635/09ddcc111dda41d2b3abed4a8f2efdb0/playlist.m3u8?k=934424e75538161b9b8530a82f8ac66d&t=1765331310",
     "desc": "WFTV-4 科教文旅频道",
     "id": 9,
     "cateid": 0,
@@ -90,74 +90,164 @@
     }
   },
   {
-    "orgId": 672,
-    "index": 0,
-    "name": "生活频道",
-    "icon": "https://img11.iqilu.com/227/2020/04/13/d5dd6313cd6afcb154c3626b2069a7f6.png",
-    "logo": "",
-    "stream": "https://alivealone302.litenews.cn/227/fc4f8ec50d0b4a95a8b17d91c9bfec30/playlist.m3u8?k=5c8ddd980e7dc58d0f71aaf561d1836c&t=1763708600",
-    "desc": "生活频道",
-    "id": 1,
-    "cateid": 0,
-    "program": 1,
-    "share": {
-      "title": "生活频道",
-      "image": "https://img11.iqilu.com/227/2020/04/13/d5dd6313cd6afcb154c3626b2069a7f6.png",
-      "url": "https://app.litenews.cn/share/dHZsLTY3Mi0x.html",
-      "desc": "点击观看精彩节目"
-    }
-  },
-  {
-    "orgId": 672,
-    "index": 1,
-    "name": "综合频道",
-    "icon": "",
-    "logo": "",
-    "stream": "https://alivealone302.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724/playlist.m3u8?k=4c8531581cd38cd41b5a6be39c1f3c62&t=1763708600",
-    "desc": "综合频道",
-    "id": 3,
-    "cateid": 0,
-    "program": 1,
-    "share": {
-      "title": "综合频道",
-      "image": "",
-      "url": "https://app.litenews.cn/share/dHZsLTY3Mi0z.html",
-      "desc": "点击观看精彩节目"
-    }
-  },
-  {
-    "orgId": 686,
+    "orgId": 657,
     "index": 0,
     "name": "新闻综合频道",
     "icon": "",
     "logo": "",
-    "stream": "https://",
-    "desc": "新闻综合",
-    "id": 3,
+    "stream": "https://live.dongyingnews.cn/537/202304_1651887564182982656/playlist.m3u8?k=8c434f13cd4ea8a1bca7d30bcff9550b&t=1765331318",
+    "desc": "新闻综合频道",
+    "id": 1,
     "cateid": 0,
     "program": 1,
     "share": {
       "title": "新闻综合频道",
       "image": "",
-      "url": "https://iapp.mdjrm.org.cn/share/dHZsLTY4Ni0z.html",
+      "url": "https://app.litenews.cn/share/dHZsLTY1Ny0x.html",
       "desc": "点击观看精彩节目"
     }
   },
   {
-    "orgId": 686,
+    "orgId": 657,
     "index": 1,
-    "name": "文旅教育频道",
+    "name": "民生频道",
     "icon": "",
     "logo": "",
     "stream": "https://",
-    "desc": "文旅教育频道",
-    "id": 8,
+    "desc": "民生频道",
+    "id": 3,
     "cateid": 0,
     "program": 1,
     "share": {
-      "title": "文旅教育频道",
+      "title": "民生频道",
       "image": "",
-      "url": "https://iapp.mdjrm.org.cn/share/dHZsLTY4Ni04.html",
+      "url": "https://app.litenews.cn/share/dHZsLTY1Ny0z.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "index": 0,
+    "name": "甘肃卫视",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/061a85e9e8d4fbb2ff8793ced676bb75.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/12afd383cb453d62b309c291535c99a2.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/32c4fc9cbd4d43ee9d84d8a6348571aa/playlist.m3u8?k=9fde4b9ae7a0ac3edf5fe95322f34bf5&t=1765331327",
+    "desc": "甘肃卫视",
+    "id": 4,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "甘肃卫视",
+      "image": "https://img11.litenews.cn/683/2024/10/24/061a85e9e8d4fbb2ff8793ced676bb75.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My00.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "index": 1,
+    "name": "经济频道",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/d7273a1615bfe26cdded56f695036df3.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/9e964984e894dc1a95031072267de5df.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/36a4de190ba54d32a6130e8d11cb3b35/playlist.m3u8?k=31f34c33adb828b3e933603d7a24e39c&t=1765331327",
+    "desc": "经济频道",
+    "id": 7,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "经济频道",
+      "image": "https://img11.litenews.cn/683/2024/10/24/d7273a1615bfe26cdded56f695036df3.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My03.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "index": 2,
+    "name": "文化影视",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/be91e00e4364b72a757bf28a9afb99d4.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/d83c527bfb5b510c82c18b620a52417c.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/cc5423b42ef94e3988cd1403a19b3d9f/playlist.m3u8?k=0d28fea06abbfb117f794080b21731f6&t=1765331327",
+    "desc": "文化影视",
+    "id": 10,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "文化影视",
+      "image": "https://img11.litenews.cn/683/2024/10/24/be91e00e4364b72a757bf28a9afb99d4.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My0xMA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "index": 3,
+    "name": "公共应急",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/53ad735371457def0c750408bd8a198a.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/53ad735371457def0c750408bd8a198a.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/4db7b8c1d69549e09bc76291e4168d4f/playlist.m3u8?k=3bc9bd0f0cd10a09a95a4c2aafb674d2&t=1765331327",
+    "desc": "公共应急",
+    "id": 13,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "公共应急",
+      "image": "https://img11.litenews.cn/683/2024/10/24/53ad735371457def0c750408bd8a198a.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My0xMw.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "index": 4,
+    "name": "都市频道",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/5540ba9d8a3759a70e8fbea90ff82279.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/f44b0b485b753e2fe5ebca99e7603d5c.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/602a64d16212405db411b42b529445ed/playlist.m3u8?k=43f0abd4f41d42296d3bbbeca0cf76ed&t=1765331327",
+    "desc": "都市频道",
+    "id": 16,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "都市频道",
+      "image": "https://img11.litenews.cn/683/2024/10/24/5540ba9d8a3759a70e8fbea90ff82279.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My0xNg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "index": 5,
+    "name": "少儿频道",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/a2eba81cd9b3d7cbdee28f41a12c5d7a.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/a3390bc5dde142bbd0165c8ebe78e6cf.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/2f91e105d26c481f832b2224ddf1ace1/playlist.m3u8?k=574afe06b496a3527cf51f0c33fddfcf&t=1765331327",
+    "desc": "少儿频道",
+    "id": 21,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "少儿频道",
+      "image": "https://img11.litenews.cn/683/2024/10/24/a2eba81cd9b3d7cbdee28f41a12c5d7a.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My0yMQ.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 683,
+    "index": 6,
+    "name": "移动电视",
+    "icon": "https://img11.litenews.cn/683/2024/10/24/4e73ac6d3b288d21b3d04b81db0a6c03.jpg",
+    "logo": "https://img11.litenews.cn/683/2024/10/24/b8d9bdd08b6bd60d47b2e7db12e7a647.jpg",
+    "stream": "https://alivealone302.litenews.cn/29/78ee69ac3125446f9434cd96aa701874/playlist.m3u8?k=9d059d8f5e149d4f3abe8ff5ab1b6dd4&t=1765331327",
+    "desc": "移动电视",
+    "id": 18,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "移动电视",
+      "image": "https://img11.litenews.cn/683/2024/10/24/4e73ac6d3b288d21b3d04b81db0a6c03.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTY4My0xOA.html",
       "desc": "点击观看精彩节目"
     }
   },
@@ -167,7 +257,7 @@
     "name": "新闻综合频道",
     "icon": "",
     "logo": "https://img11.litenews.cn/689/2025/03/31/0881f6eb000147fbab69af35a439ca91.png",
-    "stream": "https://alivealone302.litenews.cn/689/bb172d92c0504c77948c3cee3a772e86/playlist.m3u8?k=36b968ff89c45b10157182b803c1f504&t=1763708606",
+    "stream": "https://alivealone302.litenews.cn/689/bb172d92c0504c77948c3cee3a772e86/playlist.m3u8?k=dbb64983abf7d5b1ab0e6424a3e85330&t=1765331329",
     "desc": "新闻综合频道",
     "id": 11,
     "state": 1,
