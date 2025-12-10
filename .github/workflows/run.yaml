@@ -9,28 +9,29 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           persist-credentials: true
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: 20
 
       - name: Run scripts
         run: |
-          node fetch-metadata.js
-          node merge-metadata.js
-          node actions/gen-m3u-generic.js
-          node actions/gen-m3u-ku9.js
+          node .github/actions/fetch-metadata.js
+          node .github/actions/merge-metadata.js
+          node .github/actions/gen-m3u-generic.js
+          node .github/actions/gen-m3u-ku9.js
+
       - name: Set Git author
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Make changes
+      - name: Commit and push changes
         run: |
           git add .
-          git commit -m "Update" || echo "No changes"
+          git commit -m "Update m3u" || echo "No changes to commit"
           git push
